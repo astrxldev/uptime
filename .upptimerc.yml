@@ -3,7 +3,7 @@ owner: astrxldev # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: Domain: dgnr.us
+  - name: "Domain: dgnr.us"
     url: https://dgnr.us
   - name: Gitea
     url: https://git.dgnr.us
@@ -12,27 +12,27 @@ sites:
   - name: Proxy
     url: https://www-prox.dgnr.us
 
-  - name: Domain: gunshiz.top
+  - name: "Domain: gunshiz.top"
     url: https://gunshiz.top
 
-  - name: Domain: sudloh.com
+  - name: "Domain: sudloh.com"
     url: https://sudloh.com
   - name: Buzz Events Website
     url: https://buzz.sudloh.com
 
-  - name: Domain: sastify.xyz
+  - name: "Domain: sastify.xyz"
     url: https://sastify.xyz
 
-  - name: Server: Mega
+  - name: "Server: Mega"
     url: http://m.dgnr.us
 
-  - name: Server: Micro 1
+  - name: "Server: Micro 1"
     url: https://spotbk1.dgnr.us
 
-  - name: Server: Micro 2
+  - name: "Server: Micro 2"
     url: https://status.dgnr.us
 
-  - name: Server: Mini
+  - name: "Server: Mini"
     url: https://cloud.dgnr.us
 
 status-website:
