@@ -11,6 +11,10 @@ sites:
     url: https://cdn.dgnr.us
   - name: Proxy
     url: https://www-prox.dgnr.us
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
 
   - name: "Domain: gunshiz.top"
     url: https://gunshiz.top
@@ -35,15 +39,20 @@ sites:
   - name: "Server: Mini"
     url: https://cloud.dgnr.us
 
+  - name: Database
+    url: https://buzz.sudloh.com/api/artifact/count
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: down.dgnr.us
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://dgnr.us/astral.png
   name: Astral Network
-  introTitle: "This is a secondary status page incase the main one goes down."
-  introMessage: "Main one can be found [here](https://status.dgnr.us)."
+  introTitle: "Backup Status Page"
+  introMessage: >
+    If the main status page isn’t reachable, you can always check updates here.
+    The primary page lives at [status.dgnr.us](https://status.dgnr.us).
   navbar:
     - title: Status
       href: /
