@@ -3,19 +3,37 @@ owner: astrxldev # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Domain: dgnr.us
+    url: https://dgnr.us
+  - name: Gitea
+    url: https://git.dgnr.us
+  - name: CDN
+    url: https://cdn.dgnr.us
+  - name: Proxy
+    url: https://www-prox.dgnr.us
+
+  - name: Domain: gunshiz.top
+    url: https://gunshiz.top
+
+  - name: Domain: sudloh.com
+    url: https://sudloh.com
+  - name: Buzz Events Website
+    url: https://buzz.sudloh.com
+
+  - name: Domain: sastify.xyz
+    url: https://sastify.xyz
+
+  - name: Server: Mega
+    url: http://m.dgnr.us
+
+  - name: Server: Micro 1
+    url: https://spotbk1.dgnr.us
+
+  - name: Server: Micro 2
+    url: https://status.dgnr.us
+
+  - name: Server: Mini
+    url: https://cloud.dgnr.us
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,9 +41,9 @@ status-website:
   cname: down.dgnr.us
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Astral Network
+  introTitle: "This is a secondary status page incase the main one goes down."
+  introMessage: "Main one can be found [here](https://status.dgnr.us)."
   navbar:
     - title: Status
       href: /
