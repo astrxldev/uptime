@@ -13,7 +13,7 @@ sites:
     url: https://www-prox.dgnr.us
     expectedStatusCodes:
       - 200
-      - 403
+      - 401
       - 404
 
   - name: "Domain: gunshiz.top"
