@@ -22,7 +22,7 @@ sites:
   - name: "Domain: sudloh.com"
     url: https://sudloh.com
   - name: Buzz Events Website
-    url: https://buzz.sudloh.com
+    url: https://buzz.sudloh.com/api/artifact/count
 
   - name: "Domain: sastify.xyz"
     url: https://sastify.xyz
