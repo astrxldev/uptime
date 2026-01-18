@@ -1,7 +1,7 @@
 url: https://cloud.dgnr.us
-status: up
-code: 200
-responseTime: 950
-lastUpdated: 2026-01-17T23:18:34.427Z
+status: down
+code: 502
+responseTime: 952
+lastUpdated: 2026-01-18T20:25:37.216Z
 startTime: 2025-12-05T12:08:42.034Z
 generator: Upptime <https://github.com/upptime/upptime>
