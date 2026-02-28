@@ -29,6 +29,10 @@ sites:
 
   - name: "Server: Mega"
     url: http://m.dgnr.us
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 404
 
   - name: "Server: Micro 1"
     url: https://spotbk1.dgnr.us
