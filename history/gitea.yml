@@ -1,7 +1,7 @@
 url: https://git.dgnr.us
-status: up
-code: 200
-responseTime: 920
-lastUpdated: 2026-04-02T23:34:08.703Z
+status: down
+code: 502
+responseTime: 1001
+lastUpdated: 2026-04-03T21:59:36.258Z
 startTime: 2025-12-05T12:08:21.747Z
 generator: Upptime <https://github.com/upptime/upptime>
