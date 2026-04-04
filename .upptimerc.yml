@@ -38,7 +38,7 @@ sites:
     url: https://spotbk1.dgnr.us
 
   - name: "Server: Micro 2"
-    url: https://status.dgnr.us
+    url: https://status.astrxl.dev
 
   - name: "Server: Mini"
     url: https://cloud.dgnr.us
