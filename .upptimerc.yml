@@ -41,7 +41,7 @@ sites:
     url: https://status.astrxl.dev
 
   - name: "Server: Mini"
-    url: https://cloud.dgnr.us
+    url: https://git.astrxl.dev
 
   - name: Database
     url: https://buzz.sudloh.com/api/artifact/count
