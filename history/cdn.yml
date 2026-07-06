@@ -1,7 +1,7 @@
 url: https://cdn.dgnr.us
-status: up
-code: 200
-responseTime: 1018
-lastUpdated: 2026-07-06T00:03:11.026Z
+status: down
+code: 503
+responseTime: 278
+lastUpdated: 2026-07-06T14:34:20.440Z
 startTime: 2025-12-05T12:08:23.894Z
 generator: Upptime <https://github.com/upptime/upptime>
