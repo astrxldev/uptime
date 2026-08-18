@@ -1,7 +1,7 @@
 url: https://buzz.sudloh.com/api/artifact/count
-status: up
-code: 200
-responseTime: 1073
-lastUpdated: 2026-08-17T23:20:51.163Z
+status: down
+code: 522
+responseTime: 19738
+lastUpdated: 2026-08-18T04:21:07.308Z
 startTime: 2025-12-05T12:38:24.289Z
 generator: Upptime <https://github.com/upptime/upptime>
